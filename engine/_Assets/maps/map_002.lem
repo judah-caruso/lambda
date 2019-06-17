@@ -1,0 +1,251 @@
+type = "ent_floor"
+pos_tile = [0,128,32,32]
+pos_world = [224,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,160,32,32]
+pos_world = [224,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,192,32,32]
+pos_world = [224,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,224,32,32]
+pos_world = [224,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,256,32,32]
+pos_world = [224,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,128,32,32]
+pos_world = [256,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,160,32,32]
+pos_world = [256,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,192,32,32]
+pos_world = [256,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,224,32,32]
+pos_world = [256,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,256,32,32]
+pos_world = [256,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,128,32,32]
+pos_world = [288,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,160,32,32]
+pos_world = [288,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,192,32,32]
+pos_world = [288,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,224,32,32]
+pos_world = [288,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,256,32,32]
+pos_world = [288,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,128,32,32]
+pos_world = [320,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,160,32,32]
+pos_world = [320,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,192,32,32]
+pos_world = [320,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,224,32,32]
+pos_world = [320,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,256,32,32]
+pos_world = [320,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,128,32,32]
+pos_world = [352,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,160,32,32]
+pos_world = [352,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,192,32,32]
+pos_world = [352,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,224,32,32]
+pos_world = [352,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [0,256,32,32]
+pos_world = [352,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [192,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,128,32,32]
+pos_world = [192,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,160,32,32]
+pos_world = [192,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,192,32,32]
+pos_world = [192,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,224,32,32]
+pos_world = [192,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,256,32,32]
+pos_world = [192,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [192,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [224,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [224,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [256,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [256,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [288,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [288,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [320,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [320,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [352,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [352,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,96,32,32]
+pos_world = [384,96,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,128,32,32]
+pos_world = [384,128,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,160,32,32]
+pos_world = [384,160,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,192,32,32]
+pos_world = [384,192,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,224,32,32]
+pos_world = [384,224,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,256,32,32]
+pos_world = [384,256,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [32,288,32,32]
+pos_world = [384,288,32,32]
+flags = []
+
+type = "ent_floor"
+pos_tile = [64,160,32,32]
+pos_world = [256,160,32,32]
+flags = []
+
+

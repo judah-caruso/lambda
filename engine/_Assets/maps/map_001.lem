@@ -1,0 +1,40 @@
+[map_metadata]
+    name = "map_001"
+    tileset = "map_001_tex.png"
+    asset_path = "C:/Users/Judah/Documents/_Dev/C-C++/lambda_engine_001/engine/_Assets/maps/"
+
+[map_info]
+    size_map = [4, 2]
+    size_tile = [32, 32]
+    flags = []
+
+# initializer map_layer, map is invalid if removed.
+[[map_layer]]
+    type = "nil"
+    tiles = [{}]
+
+[[map_layer]]
+    type = "floor"
+    tiles = [
+        { type = "ent_floor", pos_world = [0, 0, 32, 32],   pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [32, 0, 32, 32],  pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [64, 0, 32, 32],  pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [96, 0, 32, 32],  pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [0, 32, 32, 32],  pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [32, 32, 32, 32], pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [64, 32, 32, 32], pos_tile = [0, 0, 32, 32], flags = [] },
+        { type = "ent_floor", pos_world = [96, 32, 32, 32], pos_tile = [0, 0, 32, 32], flags = [] },
+    ]
+
+[[map_layer]]
+    type = "walls"
+    tiles = [
+        { type = "ent_wall", pos_world = [96, 0, 32, 32],  pos_tile = [32, 0, 32, 32], flags = [] },
+        { type = "ent_wall", pos_world = [96, 32, 32, 32], pos_tile = [32, 0, 32, 32], flags = [] },
+    ]
+
+# [[map_layer]]
+#     type = "entites"
+#     tiles = [
+#         { type = "ent_player_spawn", pos_world = [32, 32, 32, 32], pos_tile = [32, 0, 32, 32], flags = ["event_nodraw"] }
+#     ]
