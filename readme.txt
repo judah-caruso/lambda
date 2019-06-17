@@ -6,5 +6,4 @@ Engine/
   The engine itself.
 
 
-If building the solution in Visual Studio, the builds will go into an _builds/
-folder.
+When building with Visual Studio, builds go into a _builds/[project] folder.
