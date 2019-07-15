@@ -1,3 +1,5 @@
+Notice: Some of the files in this repo have a lot of un-trimmed whitespace due to my old editor. This will be fixed soon.
+
 A 2D game engine built for grid-based games.
 
 Automata/
